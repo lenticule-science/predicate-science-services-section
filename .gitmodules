@@ -1,0 +1,4 @@
+[submodule "services/posit-science-services-section"]
+	path = services/posit-science-services-section
+	url = https://github.com/lenticule-science/posit-science-services-section.git
+	branch = main
